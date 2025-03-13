@@ -3,10 +3,10 @@ baseurl: ""
 url: "https://feltapiacontreas.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Blog                                   # site's title
+title: F.Tapia                                   # site's title
 description: "A blog about me and my career"      # used by search engines
 avatar: assets/img/triangle.png                      # Empty for no avatar in navbar
-favicon: "" #assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Felipe Tapia C.  # Change Blog header text
