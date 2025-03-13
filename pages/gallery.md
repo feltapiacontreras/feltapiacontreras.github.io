@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-hide: True
+hide: False
 subtitle: From the pexels folder
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
